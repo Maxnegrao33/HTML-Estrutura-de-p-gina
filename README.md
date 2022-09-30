@@ -4,4 +4,5 @@ Mostrando em HTML as estruturas da página
 * Nav
 * Article
 * Footer
+* Section
 * Faltou o Aside
